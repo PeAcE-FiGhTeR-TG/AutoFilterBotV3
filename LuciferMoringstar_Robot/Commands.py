@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🎖 DEPLOY YOURS 🎖', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('🔰 JOIN OUR GROUP 🔰', url='https://t.me/cineblasters')
                     ]
                     ]
                 await bot.send_cached_media(
