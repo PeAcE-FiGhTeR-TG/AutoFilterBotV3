@@ -115,10 +115,10 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("+𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣",url="https://t.me/TGs_movie_Robot?startgroup=true")
+                InlineKeyboardButton("+𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣", url="https://t.me/TGs_movie_Robot?startgroup=true")
                 ],[    
                 InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
-                InlineKeyboardButton("𝘾𝙧𝙚𝙖𝙩𝙚𝙧🕵️‍♂️",url="https://t.me/peace_fighter_TG")    
+                InlineKeyboardButton("𝘾𝙧𝙚𝙖𝙩𝙚𝙧🕵️‍♂️", url="https://t.me/peace_fighter_TG")    
                 ],[
                 InlineKeyboardButton("𝗛𝗘𝗟𝗣💡", callback_data="help"),
                 InlineKeyboardButton("𝗔𝗯𝗼𝘂𝘁 😎", callback_data="about")
