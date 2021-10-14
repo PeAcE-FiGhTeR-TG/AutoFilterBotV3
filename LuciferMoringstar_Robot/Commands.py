@@ -117,7 +117,7 @@ async def start(bot, message):
                 [[
                 InlineKeyboardButton("+𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣", url="https://t.me/TGs_movie_Robot?startgroup=true")
                 ],[    
-                InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
+                InlineKeyboardButton("Search Here", switch_inline_query_current_chat=''),
                 InlineKeyboardButton("𝘾𝙧𝙚𝙖𝙩𝙚𝙧🕵️‍♂️", url="https://t.me/peace_fighter_TG")    
                 ],[
                 InlineKeyboardButton("𝗛𝗘𝗟𝗣💡", callback_data="help"),
