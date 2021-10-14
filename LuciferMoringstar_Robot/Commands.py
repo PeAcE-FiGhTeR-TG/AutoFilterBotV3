@@ -17,6 +17,14 @@ LOG_CHANNEL = BROADCAST_CHANNEL
 
 db = Database(DB_URL, SESSION)
 
+marshmello = ["https://telegra.ph/file/b065372dd93a90a064bf9.jpg",
+              "https://telegra.ph/file/550bbee0d7a706ee8afff.jpg",
+              "https://telegra.ph/file/70db36659356eccb23e25.jpg",
+              "https://telegra.ph/file/e27feba1ee6566fdf2bf3.jpg",
+              "https://telegra.ph/file/9f3ae33ceeb9ad8673b86.jpg",
+              "https://telegra.ph/file/e1df66fce259943870548.jpg",
+              "https://telegra.ph/file/718f7f97d39ecde6716a0.jpg"]
+
 @Client.on_message(filters.command("start"))
 async def start(bot, message):
     chat_id = message.from_user.id
