@@ -125,7 +125,7 @@ async def group(client, message):
         if files:
             for file in files:
                 file_id = file.file_id
-                filename = file.file_name
+                file_name = file.file_name
                 file_size = get_size(file.file_size)
                 file_link = f"https://telegram.dog/{nyva}?start=pr0fess0r_99_-_-_-_{file_id}"
                 btn.append(
