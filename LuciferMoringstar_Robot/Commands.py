@@ -17,7 +17,7 @@ LOG_CHANNEL = BROADCAST_CHANNEL
 
 db = Database(DB_URL, SESSION)
 
-marshmello = ["https://telegra.ph/file/b065372dd93a90a064bf9.jpg",
+PEACE = ["https://telegra.ph/file/b065372dd93a90a064bf9.jpg",
               "https://telegra.ph/file/550bbee0d7a706ee8afff.jpg",
               "https://telegra.ph/file/70db36659356eccb23e25.jpg",
               "https://telegra.ph/file/e27feba1ee6566fdf2bf3.jpg",
@@ -118,9 +118,9 @@ async def start(bot, message):
             )
         )
     else:
-        await cmd.reply_photo(photo = random.choice(marshmello),
-            START_MSG,
-            parse_mode="Markdown",
+        await message.reply_photo(
+            photo = random.choice(PEACE),
+            caption=START_MSG,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
