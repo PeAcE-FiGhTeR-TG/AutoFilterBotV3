@@ -29,11 +29,12 @@ Bot Owner Only
 """
 
 ABOUT = """
-★ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝚃𝙴𝚂𝚂𝙰
+<b>★ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝚃𝙴𝚂𝚂𝙰
 ★ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁;[𝙿𝚎𝙰𝚌𝙴-𝙵𝚒𝙶𝚑𝚃𝚎𝚁-𝚃𝙶](https://t.me/peace_fighter_TG)
 ★ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: [𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼](https://docs.pyrogram.org/)
 ★ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ★ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴; [𝙼𝙾𝙽𝙶𝙾 𝙳𝙱](https://www.mongodb.com/cloud)
 ★ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: [𝙷𝙴𝚁𝙾𝙺𝚄](https://heroku.com/)
-★ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅𝟻.𝟶 [ 𝙱𝙴𝚃𝙰 ]
+  𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴; [𝙲𝙻𝙸𝙲𝙺 𝙼𝙴 👈](https://t.me/NOKIERUNNOIPPKITTUM)
+★ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅3.𝟶 [ 𝙱𝙴𝚃𝙰 ]</b>
 """
