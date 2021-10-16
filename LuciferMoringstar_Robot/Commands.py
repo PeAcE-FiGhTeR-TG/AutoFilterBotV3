@@ -346,7 +346,7 @@ async def delete(bot, message):
 async def bot_info(bot, message):
     buttons = [
         [
-           InlineKeyboardButton("🤖 𝖴𝗉𝖽𝖺𝗍𝖾𝗌", url="https;//t.me/STMbOTsUPPORTgROUP"),
+           InlineKeyboardButton("🤖 𝖴𝗉𝖽𝖺𝗍𝖾𝗌", url="https://t.me/STMbOTsUPPORTgROUP"),
            InlineKeyboardButton("🆁︎🅴︎🅿︎🅾︎", url="https://t.me/NOKIERUNNOIPPKITTUM")
         ],
         [
