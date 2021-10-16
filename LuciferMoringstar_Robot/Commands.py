@@ -23,7 +23,7 @@ PEACE = ["https://telegra.ph/file/b065372dd93a90a064bf9.jpg",
               "https://telegra.ph/file/e27feba1ee6566fdf2bf3.jpg",
               "https://telegra.ph/file/9f3ae33ceeb9ad8673b86.jpg",
               "https://telegra.ph/file/e1df66fce259943870548.jpg",
-              "https://telegra.ph/file/718f7f97d39ecde6716a0.jpg"]
+              "https://telegra.ph/file/4ac74bfae9457db19c500.jpg"]
 
 @Client.on_message(filters.command("start"))
 async def start(bot, message):
