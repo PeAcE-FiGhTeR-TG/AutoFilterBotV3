@@ -13,18 +13,19 @@ from .Channel import (
 HELP = """
 <b>Basic Commads
 
+◯ /start : ᴄʜᴇᴄᴋ ɪғ ᴀᴍ ᴀʟɪᴠᴇ
 ◯ /stats : ᴜsᴇʀ sᴛᴀᴛᴜs
 ◯ /about : ᴀʙᴏᴜᴛ ᴍᴇ
 
 Bot Owner Only
-◯ /broadcast ʀᴇᴘʟᴀʏ ᴀɴʏ ᴍᴇssᴀɢᴇ ᴏʀ ᴍᴇᴅɪᴀ
-◯ /stats : ᴜsᴇʀ sᴛᴀᴛᴜs
-◯ /ban_user  ᴄʟɪᴄᴋ ʙᴀɴ_ᴜsᴇʀ ᴍᴏʀᴇ ɪɴғᴏ
-◯ /unban_user ᴄʟɪᴄᴋ ᴜɴʙᴀɴ_ᴜsᴇʀ ᴍᴏʀᴇ ɪɴғᴏ
-◯ /banned_users Bᴀɴɴᴇᴅ ᴜsᴇʀ ᴅᴇᴛᴀɪʟs
-◯ /total ʜᴏᴡ ᴍᴀɴʏ ғɪʟᴇs ᴀᴅᴅᴇᴅ ɪɴ ᴅᴀᴛᴀʙᴀsᴇ
-◯ /logger ɢᴇᴛ ʟᴏɢs
-◯ /delete ᴅᴇʟᴇᴛᴇ ғɪʟᴇ ғʀᴏᴍ ᴅᴀᴛᴀʙᴀsᴇ</b>
+◯ /broadcast: ʀᴇᴘʟᴀʏ ᴀɴʏ ᴍᴇssᴀɢᴇ ᴏʀ ᴍᴇᴅɪᴀ
+◯ /stats: ᴜsᴇʀ sᴛᴀᴛᴜs
+◯ /ban_user: ᴄʟɪᴄᴋ ʙᴀɴ_ᴜsᴇʀ ᴍᴏʀᴇ ɪɴғᴏ
+◯ /unban_user: ᴄʟɪᴄᴋ ᴜɴʙᴀɴ_ᴜsᴇʀ ᴍᴏʀᴇ ɪɴғᴏ
+◯ /banned_users: Bᴀɴɴᴇᴅ ᴜsᴇʀ ᴅᴇᴛᴀɪʟs
+◯ /total: ʜᴏᴡ ᴍᴀɴʏ ғɪʟᴇs ᴀᴅᴅᴇᴅ ɪɴ ᴅᴀᴛᴀʙᴀsᴇ
+◯ /logger; ɢᴇᴛ ʟᴏɢs
+◯ /delete: ᴅᴇʟᴇᴛᴇ ғɪʟᴇ ғʀᴏᴍ ᴅᴀᴛᴀʙᴀsᴇ</b>
 
 """
 
