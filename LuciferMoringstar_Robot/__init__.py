@@ -29,7 +29,7 @@ Bot Owner Only
 """
 
 ABOUT = """
-<b>★ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙼𝚊𝚁𝚜𝙷𝚖𝙴𝙻𝙻𝙾
+<b>★ 𝙼𝚈 𝙽𝙰𝙼𝙴: [𝙼𝚊𝚁𝚜𝙷𝚖𝙴𝙻𝙻𝙾](https;//t.me/TGs_movie_Robot
 ★ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁;[𝙿𝚎𝙰𝚌𝙴-𝙵𝚒𝙶𝚑𝚃𝚎𝚁-𝚃𝙶](https://t.me/peace_fighter_TG)
 ★ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: [𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼](https://docs.pyrogram.org/)
 ★ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
