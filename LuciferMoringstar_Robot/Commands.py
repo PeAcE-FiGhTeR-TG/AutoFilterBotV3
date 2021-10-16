@@ -350,8 +350,8 @@ async def bot_info(bot, message):
            InlineKeyboardButton("🆁︎🅴︎🅿︎🅾︎", url="https://t.me/NOKIERUNNOIPPKITTUM")
         ],
         [
-           InlineKeyboardButton("🏠𝖧𝗈𝗆𝖾", url="callback_data="home""),
-           InlineKeyboardButton("🔓𝖢𝗅𝗈𝗌𝖾", url="callback_data="close"")
+           InlineKeyboardButton("🏠𝖧𝗈𝗆𝖾", callback_data="home"),
+           InlineKeyboardButton("🔓𝖢𝗅𝗈𝗌𝖾", callback_data="close")
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
