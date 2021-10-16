@@ -22,7 +22,7 @@ PEACE = ["https://telegra.ph/file/b065372dd93a90a064bf9.jpg",
               "https://telegra.ph/file/70db36659356eccb23e25.jpg",
               "https://telegra.ph/file/e27feba1ee6566fdf2bf3.jpg",
               "https://telegra.ph/file/9f3ae33ceeb9ad8673b86.jpg",
-              "https://telegra.ph/file/e1df66fce259943870548.jpg",
+              "https://telegra.ph/file/835ee786d17e88a98b2c8.jpg",
               "https://telegra.ph/file/4ac74bfae9457db19c500.jpg"]
 
 @Client.on_message(filters.command("start"))
