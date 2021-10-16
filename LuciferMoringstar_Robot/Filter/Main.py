@@ -294,8 +294,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('🆁︎🅴︎🅿︎🅾︎', url='https://t.me/cineblasters')
                 ],
                 [
-                    InlineKeyboardButton('🏠𝖧𝗈𝗆𝖾', url='callback_data="home"'),
-                    InlineKeyboardButton('🔓𝖢𝗅𝗈𝗌𝖾', url='callback_data="close"')
+                    InlineKeyboardButton('🏠𝖧𝗈𝗆𝖾', callback_data="home"),
+                    InlineKeyboardButton('🔓𝖢𝗅𝗈𝗌𝖾', callback_data="close")
                 ]
                 ]
             await query.message.edit(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
