@@ -282,8 +282,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "help":
             buttons = [
                 [
-                    Inline
-                   
+                    InlineKeyboardButton('❕ 𝗛𝗢𝗪 𝗧𝗢 𝗨𝗦𝗘 𝗠𝗘 ❕', url='https://t.me/marshmello_index/4'),
+                ],
+                [
+                    InlineKeyboardButton('🤖 𝙎𝙪𝙥𝙥𝙤𝙧𝙩', url='https://t.me/STMbOTsUPPORTgROUP'),
+                    InlineKeyboardButton('𝘾𝙧𝙚𝙖𝙩𝙚𝙧👩‍💻', url='https://t.me/Peace_fighter_TG')
+                ],
+                [
+                    InlineKeyboardButton('🏠𝖧𝗈𝗆𝖾', callback_data="home"),
+                    InlineKeyboardButton('🔓𝖢𝗅𝗈𝗌𝖾', callback_data="close")
                 ]
                 ]
             await query.message.edit(text=f"{HELP}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
