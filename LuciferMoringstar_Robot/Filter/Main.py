@@ -282,7 +282,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "help":
             buttons = [
                 [
-                    InlineKeyboardButton('❕ 𝗛𝗢𝗪 𝗧𝗢 𝗨𝗦𝗘 𝗠𝗘 ❕', url='https://t.me/marshmello_index/4'),
+                    InlineKeyboardButton('❕ 𝗛𝗢𝗪 𝗧𝗢 𝗨𝗦𝗘 𝗠𝗘 ❕', url='https://t.me/marshmello_index/4')
                 ],
                 [
                     InlineKeyboardButton('🤖 𝙎𝙪𝙥𝙥𝙤𝙧𝙩', url='https://t.me/STMbOTsUPPORTgROUP'),
