@@ -357,7 +357,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{title}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🍿 𝐉𝐎𝐈𝐍 𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 🍿', url='https://t.me/cineblasters')
+                        InlineKeyboardButton('🔄 Search Again 🔄', switch_inline_query_current_chat='')
                     ]
                     ]
                 
